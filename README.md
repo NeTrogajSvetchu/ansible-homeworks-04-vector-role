@@ -1,1 +1,0 @@
-# ansible-homeworks-04-vector-role
